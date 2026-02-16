@@ -1,0 +1,27 @@
+[
+    {
+        "timestamp": "2026-02-16 17:30:48",
+        "prompt": "hi",
+        "response": "This is a mock response because API quota is exceeded."
+    },
+    {
+        "timestamp": "2026-02-16 17:54:33",
+        "prompt": "what is temperature in LLM context?",
+        "response": "This is a mock response because API quota is exceeded."
+    },
+    {
+        "timestamp": "2026-02-16 18:11:44",
+        "prompt": "hii",
+        "response": "This is a mock response because API quota is exceeded."
+    },
+    {
+        "timestamp": "2026-02-16 18:29:24",
+        "prompt": "what is AI?",
+        "response": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think, learn, and perform tasks like reasoning, problem-solving, perception, language understanding, and decision-making. It involves creating systems (algorithms, models, and software) that can analyze data, recognize patterns, and make predictions or take actions with minimal human intervention.\n\n### **Key Aspects of AI:**\n1. **Machine Learning (ML)** \u2013 A subset of AI where systems learn from data without explicit programming. Examples:\n   - **Supervised Learning** (e.g., spam detection, image recognition)\n   - **Unsupervised Learning** (e.g., clustering, anomaly detection)\n   - **Reinforcement Learning** (e.g., game-playing AI like AlphaGo)\n\n2. **Deep Learning (DL)** \u2013 A more advanced form of ML using **neural networks** with many layers (deep architectures) to model complex patterns (e.g., speech recognition, self-driving cars).\n\n3. **Natural Language Processing (NLP)** \u2013 Enables machines to understand, generate, and interact with human language (e.g., chatbots, translation tools like Google Translate).\n\n4. **Computer Vision** \u2013 Helps AI interpret and process visual data (e.g., facial recognition, autonomous vehicles).\n\n5. **Robotics & Automation** \u2013 AI powers robots to perform tasks autonomously (e.g., industrial robots, drones).\n\n6. **Expert Systems** \u2013 AI programs that mimic human expertise in specific domains (e.g., medical diagnosis, financial risk assessment).\n\n7. **AI Applications** \u2013 Used in:\n   - **Recommendation systems** (Netflix, Amazon)\n   - **Virtual assistants** (Siri, Alexa)\n   - **Autonomous vehicles** (Tesla, Waymo)\n   - **Fraud detection** (banks, cybersecurity)\n   - **Healthcare** (disease prediction, drug discovery)\n   - **Gaming** (AI opponents in chess, poker)\n\n### **How AI Works:**\n- **Data Collection & Processing** \u2013 AI systems require large datasets (structured or unstructured).\n- **Algorithms & Models** \u2013 They use statistical methods (e.g., decision trees, neural networks) to find patterns.\n- **Training & Learning** \u2013 Models are trained on data to improve accuracy over time.\n- **Inference & Decision-Making** \u2013 AI applies learned knowledge to make predictions or take actions.\n\n### **Types of AI:**\n- **Narrow AI (Weak AI)** \u2013 Designed for specific tasks (e.g., voice assistants, recommendation engines).\n- **General AI (Strong AI)** \u2013 Hypothetical AI with human-like cognitive abilities (not yet achieved).\n- **Superintelligence** \u2013 AI surpassing human intelligence (still theoretical).\n\n### **AI vs. Human Intelligence:**\n- AI excels at **speed, precision, and handling large datasets**, but lacks **consciousness, emotions, and common sense**.\n- Humans provide **creativity, intuition, and ethical judgment**, while AI automates repetitive tasks.\n\nWould you like a deeper explanation on any specific AI concept?"
+    },
+    {
+        "timestamp": "2026-02-16 18:32:22",
+        "prompt": "who is the CEO of Google?",
+        "response": "As of **June 2024**, the **CEO of Google** is **Sundar Pichai**, who has held the position since **October 2015**.\n\nHe also serves as the **CEO of Alphabet Inc.**, Google's parent company, since **December 2019** (following the retirement of Larry Page).\n\nWould you like details on his background or recent updates?"
+    }
+]
