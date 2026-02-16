@@ -1,7 +1,10 @@
 from openai import OpenAI       ##it will connect the main file to LLm
 import json                     ##to store the req & res in json
 from datetime import datetime   ##to store logs while saving req & res
+from dotenv import load_dotenv
 
+
+load_dotenv()
 
 client = OpenAI(base_url="https://openrouter.ai/api/v1")    ##LLM will auto reads my api key in the .env
 
